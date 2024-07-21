@@ -6,7 +6,7 @@ const Work = () => {
     {
       heading: "Pixelflakes",
       subheading: "Architectural Marketing Agency",
-      video: "/public/videos/Pixelflakes.mp4",
+      video: "/videos/Pixelflakes.mp4",
       image:
         "https://a.storyblok.com/f/133769/2400x2990/20d07e6f0c/pixelflakes-hero.jpg/m/1300x1620/filters:quality(90)",
     },
